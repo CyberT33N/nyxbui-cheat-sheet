@@ -2,6 +2,12 @@
 
 
 
+
+
+
+
+
+
 <br><br>
 <br><br>
 ___
@@ -524,6 +530,29 @@ const Icons = {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Border
+
+<details><summary>Click to expand..</summary>
+
+
+
+
+
+
 <br><br>
 <br><br>
 
@@ -580,6 +609,26 @@ export function ShineBorderDemo() {
    )
 }
 ```
+
+
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
